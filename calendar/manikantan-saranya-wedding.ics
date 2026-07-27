@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Manikantan and Saranya Wedding//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:manikantan-saranya-wedding-20260907@generated.invite
+DTSTAMP:20260718T070000Z
+DTSTART:20260907T040000Z
+DTEND:20260907T083000Z
+SUMMARY:Wedding of Manikantan & Saranya
+LOCATION:Golden Palace International Convention Centre\, Golden Palace Junction\, Amaravila-Karakonam Road\, Neyyattinkara\, Kerala 695503
+DESCRIPTION:Wedding reception begins at 9:30 AM IST. Muhurtham is from 10:25 AM to 10:55 AM IST. With the blessings of both families.
+URL:https://www.google.com/maps/search/?api=1&query=Golden+Palace+International+Convention+Centre+Manivila+Karakonam
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

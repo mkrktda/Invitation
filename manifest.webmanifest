@@ -1,0 +1,17 @@
+{
+  "name": "Manikantan & Saranya — Wedding Invitation",
+  "short_name": "M & S Wedding",
+  "description": "Wedding invitation of Dr. Manikantan R. Nair and Dr. Saranya R. Nair — 7 September 2026, Kerala.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbf6e9",
+  "theme_color": "#4a1520",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
